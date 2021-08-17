@@ -3,7 +3,7 @@
 session_start();
 
 $conn = mysqli_connect(
-    'localhost',
+    'juank-portfolio.herokuapp.com',
     'root',
     '',
     'php_mysql_crud',
