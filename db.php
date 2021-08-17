@@ -3,7 +3,7 @@
 session_start();
 
 $conn = mysqli_connect(
-    'juank-portfolio.herokuapp.com',
+    'pensive-lovelace-f0efe7.netlify.app',
     'juancarlossa',
     '',
     'php_mysql_crud',
